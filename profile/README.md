@@ -43,7 +43,7 @@ Our diverse team brings together decades of combined experience in spacecraft de
 Arkspace.me is currently in advanced development, with our first demonstration mission planned for the near future. Follow our progress or express interest in securing your own personal ark:
 
 - Website: [arkspace.me](https://arkspace.me)
-- Twitter: [@arkspace_me](https://twitter.com/slash_acc)
+- Twitter: [@slash_acc](https://twitter.com/slash_acc)
 - Email: info@arkspace.me
 
 ---
